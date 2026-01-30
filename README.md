@@ -46,7 +46,11 @@ Source: <[(https://storage.googleapis.com/kaggle-data-sets/6688404/10779441/bund
 ---
 
 ## 📸 Screenshots
-(Add pivot table and dashboard images here)
+<img width="1916" height="1079" alt="Region wise sale" src="https://github.com/user-attachments/assets/5cf6c9e5-5926-4f9b-b78e-98d0aec00e2b" />
+<img width="1918" height="1079" alt="productwise sale LOSS or Profit" src="https://github.com/user-attachments/assets/cf8e3bee-7250-48b0-966a-b7444db173d9" />
+<img width="1919" height="1079" alt="Product-wise Performance" src="https://github.com/user-attachments/assets/f7909968-3bc4-4aa8-8031-f273fc397412" />
+<img width="1919" height="1079" alt="Monthly Sales   Profit" src="https://github.com/user-attachments/assets/71a7f5a8-8b10-45c1-9f66-38aca555bc02" />
+
 
 ---
 
